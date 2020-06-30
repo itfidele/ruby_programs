@@ -1,0 +1,9 @@
+Fidele,Programmer
+Kirezi,Worker
+Cyisa,Tailor
+Michael, Customer Manager
+ Imana ni,Byose
+ Imana ni,Byose
+Imana ni,ByoseImana ni,ByoseImana ni,ByoseImana ni,ByoseImana ni,Byose
+Imana ni,Byose
+Imana ni,Byose
